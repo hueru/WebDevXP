@@ -12,7 +12,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>HELLO WORLD</h1>
+      <h1>HELLO VirtualWORLD</h1>
 
       <button onClick={() => {
         setIsMemoOpen(true)
