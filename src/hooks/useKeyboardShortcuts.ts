@@ -1,6 +1,6 @@
 // src/hooks/useKeyboardShortcuts.ts
 import { useEffect } from 'react'
-import { handleKeyboardShortcuts } from './keyboardUtils'
+import { handleKeyboardShortcuts } from '../utils/keyboardUtils'
 
 interface KeyboardActions {
   onOpenMemo?: () => void

@@ -1,6 +1,6 @@
 // src/utils/windowUtils.ts
 import type { Position } from '../types'
-import { DESKTOP_CONFIG } from './desktop'
+import { DESKTOP_CONFIG } from '../config/desktop'
 
 /**
  * ウィンドウ位置を画面内に制限する
